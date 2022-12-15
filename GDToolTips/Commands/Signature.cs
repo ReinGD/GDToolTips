@@ -15,7 +15,7 @@ namespace GDToolTips
             string user = GDToolTips.Vsix.Author;
 
             string message = "/*==============================\n" + 
-                             " Made By " + user  + "\n" + 
+                             " Made By " + user  + "\n  " + 
                              DateTime.Now.Year.ToString() + "\n" + 
                              " All rights reserved\n"+
                              "==============================*/" + "";
